@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(file:///Users/elijah/Downloads/ST%20Horz%20Logo.png) top center;
   background-size: cover;
   position: relative;
 }
@@ -502,7 +502,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about .about-container .background {
   min-height: 300px;
-  background: url(../img/about-img.jpg) center top no-repeat;
+  background: url(file:///Users/elijah/Desktop/ST%20Vert%20Logo.png) center top no-repeat;
   margin-bottom: 10px;
 }
 
@@ -569,23 +569,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /* Facts Section
 --------------------------------*/
-#facts {
-  background: #f7f7f7;
-  padding: 80px 0 60px 0;
-}
 
-#facts .counters span {
-  font-size: 48px;
-  display: block;
-  color: #2dc997;
-}
-
-#facts .counters p {
-  padding: 0;
-  margin: 0 0 20px 0;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-}
 
 /* Services Section
 --------------------------------*/
