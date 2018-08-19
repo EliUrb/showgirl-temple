@@ -329,6 +329,7 @@ h1, h2, h3, h4, h5, h6 {
   visibility: visible;
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
+  background-color: #eee2e3;
 }
 
 .nav-menu ul {
@@ -609,7 +610,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #classes .icon a {
   display: inline-block;
-  background: #2dc997;
+  background: #fc172e;
   border: 2px solid #2dc997;
   padding: 16px;
   border-radius: 50%;
@@ -622,12 +623,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #classes .box:hover .icon i {
-  color: #2dc997;
+  color: #2e6da4;
 }
 
 #classes .box:hover .icon a {
-  color: #2dc997;
-  background: #fff;
+  color: #2e6da4;
+  background: #eee2e3;
 }
 
 #classes .title {
@@ -852,7 +853,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #2dc997;
+  color: #fc172e;
   float: left;
 }
 
