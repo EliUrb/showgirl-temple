@@ -609,8 +609,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #classes .icon a {
   display: inline-block;
-  background: #fc172e;
-  border: 2px solid #fc172e;
+  background: #93080f;
+  border: 2px solid #93080f;
   padding: 16px;
   border-radius: 50%;
   transition: 0.3s;
@@ -622,11 +622,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #classes .box:hover .icon i {
-  color: #fc172e;
+  color: #93080f;
 }
 
 #classes .box:hover .icon a {
-  color: #fc172e;
+  color: #93080f;
   background: #eee2e3;
 }
 
@@ -852,7 +852,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #fc172e;
+  color: #93080f;
   float: left;
 }
 

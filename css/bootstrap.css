@@ -1,9 +1,9 @@
 .btn-primary {
 	color: #fff;
-	background-color: #fc172e;
+	background-color: #93080f;
 	border-color: #2e6da4;
 	&:focus {
-		color: #fc172e;
+		color: #93080f;
 		background-color: #286090;
 		border-color: #122b40;
 	}
@@ -13,33 +13,33 @@
 		border-color: #2e6da4;
 	}
 	&:active {
-		color: #fc172e;
+		color: #93080f;
 		background-color: #2e6da4;
 		border-color: #2e6da4;
 		background-image: none;
 		&:hover {
-			color: #fc172e;
+			color: #93080f;
 			background-color: #eee2e3;
 			border-color: #122b40;
 		}
 		&:focus {
-			color: #fc172e;
+			color: #93080f;
 			background-color: #eee2e3;
 			border-color: #122b40;
 		}
 	}
 	&:active.focus {
-		color: #fc172e;
+		color: #93080f;
 		background-color: #eee2e3;
 		border-color: #122b40;
 	}
 	.badge {
-		color: #fc172e;
+		color: #93080f;
 		background-color: #fff;
 	}
 }
 .btn-primary:hover {
-		color: #fc172e;
-		border-color: #fc172e;
+		color: #93080f;
+		border-color: #93080f;
     background-color: #eee2e3;
 }
